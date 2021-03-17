@@ -2,13 +2,15 @@
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Avner José</h1>
 <h3 align="center">A computer engineering student who is trying to become a software developer</h3>
 
+<img align="right" alt="Computer" width="300px" src="images/computer.png" />
+
 - 📓️ I’m currently studing at [INATEL](https://inatel.br/home/)
 - 📫 How to reach me **avnerj.g.r@gmail.com**
 - 💻️ Nowadays focused on Front-end development
 -  🌱 I’m currently learning ReactJS and React-Native
 -  🧛‍♂️️ Fun fact: I love cats and horror movies 
 
-<img align="right" alt="Computer" width="150px" src="images/computer.png" />
+
 
 ### Connect with me:
 
