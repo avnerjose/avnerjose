@@ -8,7 +8,7 @@
 -  🌱 I’m currently learning ReactJS and React-Native
 -  🧛‍♂️️ Fun fact: I love cats and horror movies 
 
-<img align="right" alt="Computer" width="26px" src="images/computer.png" />
+<img align="right" alt="Computer" width="150px" src="images/computer.png" />
 
 ### Connect with me:
 
