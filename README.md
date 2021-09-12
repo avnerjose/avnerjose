@@ -10,7 +10,15 @@
 -  🌱 I’m currently learning ReactJS and React-Native
 -  🧛‍♂️️ Fun fact: I love cats and horror movies 
 
+## 
 
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avnerjose&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnerjose&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+  
+![Snake animation](https://github.com/avnerjose/avnerjose/blob/output/github-contribution-grid-snake.svg)
 
 ### Connect with me:
 
@@ -32,5 +40,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <br />
 <br />
+  
+  
 
 [linkedin]: https://www.linkedin.com/in/avnerjose/
