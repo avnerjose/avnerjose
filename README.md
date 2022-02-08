@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Avner José</h1>
-<h3 align="center">A computer engineering student who is trying to become a software developer</h3>
-
+<!-- <h3 align="center">A computer engineering student who is trying to become a software developer</h3>
+ -->
 <img align="right" alt="Computer" width="350px" src="images/computer.png" />
 
 - 📓️ I’m currently studing at [INATEL](https://inatel.br/home/)
