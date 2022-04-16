@@ -1,7 +1,9 @@
-
-<h1 align="center">Hi  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Avner José</h1>
-<!-- <h3 align="center">A computer engineering student who is trying to become a software developer</h3>
+<h1 align="center">
+<img width="700px"  src="https://readme-typing-svg.herokuapp.com?font=roboto+mono&color=3D00FF&center=true&vCenter=true&lines=Hi+there!%F0%9F%91%8B;I'm+Avner!+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB"/>
+</h1>
+ <!-- <h3 align="center">A computer engineering student who is trying to become a software developer</h3>
  -->
+
 <img align="right" alt="Computer" width="350px" src="images/computer.png" />
 
 - 📓️ I’m currently studing at [INATEL](https://inatel.br/home/)
@@ -43,9 +45,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avnerjose&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnerjose&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 </div>
-  
-![Snake animation](https://github.com/avnerjose/avnerjose/blob/output/github-contribution-grid-snake.svg)
-  
-  
+ 
+## 
+ <img src="https://activity-graph.herokuapp.com/graph?username=avnerjose&bg_color=1A1B27&line=0cb9b1&color=7e7fff"/>
+
+##
+
+ <div align="center">
+  <img src="https://github.com/avnerjose/avnerjose/blob/output/github-contribution-grid-snake.svg"/>
+ </div>
+<!--![Snake animation](https://github.com/avnerjose/avnerjose/blob/output/github-contribution-grid-snake.svg)-->  
 
 [linkedin]: https://www.linkedin.com/in/avnerjose/
