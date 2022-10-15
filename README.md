@@ -9,7 +9,7 @@
 - 📓️ I’m currently studing at [INATEL](https://inatel.br/home/)
 - 📫 How to reach me **avnerj.g.r@gmail.com**
 - 💻️ Nowadays focused on Front-end development
--  🌱 I’m currently learning ReactJS and React-Native
+-  🌱 I’m currently learning Flutter and NodeJS
 -  🧛‍♂️️ Fun fact: I love cats and horror movies 
 
 ## 
