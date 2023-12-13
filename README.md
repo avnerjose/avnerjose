@@ -48,10 +48,9 @@
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnerjose&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 
 </div>
-## 
- [![Avner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avnerjose)](https://github.com/avnerjose/github-readme-activity-graph)
 
-##
+ ![Avner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avnerjose&theme=tokyo-night)
+
 
  <div align="center">
   <img src="https://github.com/avnerjose/avnerjose/blob/output/github-contribution-grid-snake.svg"/>
