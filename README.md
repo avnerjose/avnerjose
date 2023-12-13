@@ -6,10 +6,9 @@
 
 <img align="right" alt="Computer" width="350px" src="images/computer.png" />
 
-- 📓️ I’m currently studying at [INATEL](https://inatel.br/home/)
+- 📓️ Graduated in Computer Engineering at INATEL
 - 📫 How to reach me **avnerj.g.r@gmail.com**
 - 💻️ Nowadays focused on Front-end development
--  🌱 I’m currently learning Flutter and NodeJS
 
 ## 
 
