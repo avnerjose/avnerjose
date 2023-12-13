@@ -38,18 +38,19 @@
 
 ##
 
+
+![Avner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avnerjose&theme=github-compact)
+
 <div>
   <a href="https://github.com/avnerjose">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=avnerjose&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=avnerjose&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" /> 
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=avnerjose&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img width="49%"  height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=avnerjose&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" /> 
 </div>
  
 <div align="center">
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnerjose&layout=compact&langs_count=8&theme=github_dark&hide_border=true&hide=jupyter%20notebook"/>
 
 </div>
-
- ![Avner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avnerjose&theme=github-compact)
 
 
  <div align="center">
