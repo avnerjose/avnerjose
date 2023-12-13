@@ -48,9 +48,8 @@
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnerjose&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 
 </div>
- 
 ## 
- <img src="https://activity-graph.herokuapp.com/graph?username=avnerjose&bg_color=1A1B27&line=0cb9b1&color=7e7fff"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avnerjose&bg_color=1A1B27&line=0cb9b1&color=7e7fff"/>
 
 ##
 
