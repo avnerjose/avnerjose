@@ -49,7 +49,7 @@
 
 </div>
 ## 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=avnerjose&bg_color=1A1B27&line=0cb9b1&color=7e7fff"/>
+ [![Avner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=avnerjose)](https://github.com/avnerjose/github-readme-activity-graph)
 
 ##
 
